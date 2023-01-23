@@ -1,4 +1,4 @@
-# life_in_the_wild
+# css_flexbox
 
 Simple project to make a responsive UI using flexbox
 
